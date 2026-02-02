@@ -3,7 +3,7 @@ import { ChevronDown, Star } from 'lucide-react';
 import { SiReact, SiNextdotjs, SiTailwindcss, SiNodedotjs, SiMongodb } from 'react-icons/si';
 import { PERSONAL_INFO, STATS } from '../../utils/constants';
 import { scrollToSection } from '../../hooks/useScrollSpy';
-import FadeIn from '../animations/fadeIn';
+import FadeIn from '../animations/FadeIn';
 import RadialGradientBackground from '../backgrounds/RadialGradientBackground';
 
 const Hero = () => {
