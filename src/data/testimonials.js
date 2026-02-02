@@ -4,7 +4,7 @@ export const testimonials = [
         name: 'Goku',
         role: 'Saiyan',
         company: 'Saiyans Inc.',
-        image: '/public/images/goku.jpeg',
+        image: '/images/goku.jpeg',
         quote: ' Is he strong?',
         rating: 10
     },
